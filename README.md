@@ -94,7 +94,7 @@ The project generates the following visualizations:
 Netflix-Data-Analysis/
 │
 ├── netflix_titles.csv
-├── main.py
+├── netflix_data_visualisation.py
 │
 ├── movies_vs_tvshows.png
 ├── Content_Rating_pie.png
