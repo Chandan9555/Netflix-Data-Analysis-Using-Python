@@ -88,25 +88,6 @@ The project generates the following visualizations:
 - The United States contributes the highest number of titles, followed by India.
 - Movie releases are higher than TV Show releases across most years.
 
-## 📁 Project Structure
-
-```text
-Netflix-Data-Analysis/
-│
-├── netflix_titles.csv
-├── netflix_data_visualisation.py
-│
-├── movies_vs_tvshows.png
-├── Content_Rating_pie.png
-├── movie_duration_histogram.png
-├── release_year_Scatter.png
-├── top10_countries.png
-├── movies_tv_shows_comparison.png
-│
-└── README.md
-```
-
-
 ## 🎯 Learning Outcomes
 
 - Learned practical data cleaning using Pandas.
